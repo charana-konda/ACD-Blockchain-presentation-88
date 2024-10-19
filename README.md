@@ -2,7 +2,7 @@ VIDEO LINK- https://drive.google.com/file/d/11KWs-oN1gNyHiaN5yUuqVe7TZmNSj86O/vi
  
  Blockchain Technology Presentation
 
-This repository includes a PowerPoint presentation on Blockchain Technology, covering:
+This repository includes a PowerPoint presentation video on Blockchain Technology, covering:
 
 - Overview of blockchain and how it works
 - Key features: decentralization, transparency, immutability, and security
